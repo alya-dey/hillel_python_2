@@ -1,0 +1,1 @@
+{"USD_available": 13500.0, "UAH_available": 39000.0, "USD_rate": 27.3, "UAH_rate": 0.036363}
